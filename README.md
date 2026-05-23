@@ -163,7 +163,12 @@ Ao final da disciplina o aluno terá desenvolvido um sistema completo aplicando:
 
 ```txt
 https://github.com/WellingtonRoque/Projeto_TPI.git
+```
 
+---
 
 # 🌐 Sistema Online no RENDER
+
+```txt
 https://projeto-tpi-sistema-comercial.onrender.com
+```
